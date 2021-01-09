@@ -36,11 +36,11 @@ features                                  :
 
   - title                                 : Anti Filter
     description                           : Always connect via internal proxy and Tor network
-    fontawesome_icon_name                 : map
+    fontawesome_icon_name                 : plug
     
   - title                                 : ghost state
     description                           : See other people s messages overnight
-    fontawesome_icon_name                 : snapchat-ghost
+    fontawesome_icon_name                 : user-secret
 
   - title                                 : Video Support
     description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
