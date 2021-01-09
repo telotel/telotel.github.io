@@ -44,27 +44,27 @@ features                                  :
 
   - title                                 : Anti-advertising
     description                           : Ads in the app are closed for your convenience.
-    fontawesome_icon_name                 : play-circle
+    fontawesome_icon_name                 : windows-close
 
   - title                                 : Pro Forward
     description                           : Send simple and easy messages to your friends to groups and ...
-    fontawesome_icon_name                 : Forward
+    fontawesome_icon_name                 : forward
 
-  - title                                 : Easy to Tweak
-    description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : adjust
+  - title                                 : Profile Maker
+    description                           : Beautify your profile with various tools
+    fontawesome_icon_name                 : user
   
-  - title                                 : Feature List
-    description                           : Add features (like this one) to your site via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : star
+  - title                                 : FindUser
+    description                           : Find your friends quickly and easily
+    fontawesome_icon_name                 : search
 
-  - title                                 : Smart App Banner
-    description                           : Display a smart app banner on iOS devices.
-    fontawesome_icon_name                 : arrow-alt-circle-down
+  - title                                 : online Contact
+    description                           : Be aware of your friends being online
+    fontawesome_icon_name                 : users
 
-  - title                                 : Social Links
-    description                           : Easily add social media accounts and contact info in the footer via the _config.yml file. No HTML/CSS needed.
-    fontawesome_icon_name                 : link
+  - title                                 : Advanced setting 
+    description                           : Enable advanced settings for yourself and enjoy
+    fontawesome_icon_name                 : wrench
 
   - title                                 : FontAwesome Support
     description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
