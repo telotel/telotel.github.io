@@ -42,13 +42,13 @@ features                                  :
     description                           : See other people s messages overnight
     fontawesome_icon_name                 : user-secret
 
-  - title                                 : Video Support
-    description                           : Preview app video on the iPhone device simply by placing your video files in the videos folder.
+  - title                                 : Anti-advertising
+    description                           : Ads in the app are closed for your convenience.
     fontawesome_icon_name                 : play-circle
 
-  - title                                 : Automatic Icon and Metadata
-    description                           : Enter iOS app ID in the _config.yml file to automatically fetch app icon, price and App Store Link.
-    fontawesome_icon_name                 : sync
+  - title                                 : Pro Forward
+    description                           : Send simple and easy messages to your friends to groups and ...
+    fontawesome_icon_name                 : Forward
 
   - title                                 : Easy to Tweak
     description                           : Tweak accent color, images, icons and transparency via the _config.yml file. No HTML/CSS needed.
