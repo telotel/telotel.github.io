@@ -44,7 +44,7 @@ features                                  :
 
   - title                                 : Anti-advertising
     description                           : Ads in the app are closed for your convenience.
-    fontawesome_icon_name                 : windows-close
+    fontawesome_icon_name                 : window-close
 
   - title                                 : Pro Forward
     description                           : Send simple and easy messages to your friends to groups and ...
@@ -66,8 +66,8 @@ features                                  :
     description                           : Enable advanced settings for yourself and enjoy
     fontawesome_icon_name                 : wrench
 
-  - title                                 : FontAwesome Support
-    description                           : Pick custom Font Awesome icons for the feature list via the _config.yml file. No HTML/CSS needed.
+  - title                                 : Message Detail
+    description                           : Get the details of the message with one click
     fontawesome_icon_name                 : info-circle
 
   - title                                 : # New Feature Title
