@@ -36,7 +36,7 @@ features                                  :
 
   - title                                 : Anti Filter
     description                           : Always connect via internal proxy and Tor network
-    fontawesome_icon_name                 : internet-explorer
+    fontawesome_icon_name                 : map
     
   - title                                 : ghost state
     description                           : See other people s messages overnight
